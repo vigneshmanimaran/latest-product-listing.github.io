@@ -3,7 +3,7 @@
 I had done the project listing page for swag of India and I had listed the products of swag of India. In this page I created normal effect and over effect on the products using javascript. Normal effect is just like hovering the product it shows the cart icon,whistlist and favourite icon. Over effect is like hovering the normal effect it shows the styling effect on cart icon,whistlist and favourite icon.
 The webpage shows the detailed explaination.
 
-please check my webpage here : https://vigneshmanimaran.github.io/Product-listing-page.github.io/
+please check my webpage here : https://vigneshmanimaran.github.io/latest-product-listing.github.io/
 
 Here I attched the screenshots of the webpage
 
